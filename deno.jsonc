@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "start": "deno run -A main.ts"
+  },
+  "imports": {
+    "deno_pdf2pic/": "./"
+  }
+}
